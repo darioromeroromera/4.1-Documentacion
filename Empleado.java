@@ -7,6 +7,8 @@ package ies;
 
 /**
  * @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
+ * @see <a href = "https://es.wikipedia.org/wiki/Javadoc" /> wikipedia.org – Artículo sobre Javadoc </a>
+ * @see #getPobla()
  */
 public class Empleado {
 	private int emp_no;
